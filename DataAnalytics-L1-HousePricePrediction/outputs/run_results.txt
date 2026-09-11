@@ -1,0 +1,5 @@
+Validation MAE : 25750.49
+Validation RMSE: 32269.79
+Validation R2  : 0.8709
+
+Prediction file saved to outputs/house_price_predictions.csv
